@@ -1,9 +1,9 @@
-This is boilerplate for an app with Node backend API and a React frontend.
+This is a basic To-Do app written with a Node backend API and a React frontend.
 
-After installing the code in your project directory, run npm install to download the dependencies.
+1. Clone the project
+2. Run npm install from the root directory
+3. Run npm install from the /client directory
+4. Open one terminal window and do: npm run server
+5. Open another terminal window and do: cd client && npm start
 
-To run the project, start two terminal windows.
-Run in the first window: npm run server
-Run in the second window: npm run client
-
-Navigate to http://localhost:3000 in your browser to see the app and get started on your project.
+Navigate to http://localhost:3000 in the browser to view the app.
