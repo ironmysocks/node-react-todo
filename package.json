@@ -1,5 +1,5 @@
 {
-  "name": "pagerduty-todo",
+  "name": "node-react-todo",
   "version": "1.0.0",
   "scripts": {
     "client": "cd client && npm start",
