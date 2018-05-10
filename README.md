@@ -1,9 +1,24 @@
-This is a basic To-Do app written with a Node backend API and a React frontend.
+# node-react-todo
+This is a very basic To-Do app written with a Node backend API and a React frontend.
 
-1. Clone the project
-2. Run npm install from the root directory
-3. Run npm install from the /client directory
-4. Open one terminal window and do: npm run server
-5. Open another terminal window and do: cd client && npm start
+### Install
+```
+git clone https://github.com/ironmysocks/node-react-starter
+cd node-react-starter
+npm install
+cd client
+npm install
+```
 
-Navigate to http://localhost:3000 in the browser to view the app.
+### Start
+Open two terminal windows. In the first window, do:
+```
+npm run server
+```
+
+In the second window, do:
+```
+npm run client
+```
+
+Then go to http://localhost:3000 in your browser to see the app running.
